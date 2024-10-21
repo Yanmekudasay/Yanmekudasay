@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Yan e esse é o meu canal no Github
 - 👀 Eu estou interessado em programação em geral, não me vejo progamando em uma linguagem fixa, já tive experiencias com HTML, CSS e PYTHON
 - 🌱 Eu estou desenvolvendo minhas habilidades de programação adiquirindo mais logica e mais concistencia
-- 💞️ Estou tentando me entregar em uma empresa aonde consigo desenvolver minhas habilidades, afinal sou uma pedra a ser lapidada e assim vou me formando
+- 💞️ Estou tentando me integrar em uma empresa aonde consigo desenvolver minhas habilidades, afinal sou uma pedra a ser lapidada e assim vou me formando
 - 📫 Você pode me encontrar no seguinte canal, via e-mail:yanlmossantana@gmail.com
